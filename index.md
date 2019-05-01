@@ -1,4 +1,4 @@
-# がじゅまるの木プロジェクト
+# Banyan プロジェクト
 
 ## 結論
 
@@ -11,7 +11,7 @@
 ※送られてきた順番通りに記載しています。
 
 ### Wix
-https://ja.wix.com/website-template/view/html/1708
+[https://ja.wix.com/website-template/view/html/1708](https://ja.wix.com/website-template/view/html/1708)
 
 #### 良い点
 - トップページだけで構成されていて、シンプルでとてもいいですね。今流行りのHPだと思います。これならターゲット層（中高年世代）の方にも見やすいと感じてもらえるのではないでしょうか。
@@ -21,7 +21,7 @@ https://ja.wix.com/website-template/view/html/1708
 - WixでHPを作ったことがないので、探りながらの制作になります。調査等で多少お時間をいただくかも知れないです。また、実現できないこともあるかも知れません（事前に調査しますが、リスクがあることは理解お願いします）
 
 ### Goope
-https://r.goope.jp/sample12
+[https://r.goope.jp/sample12](https://r.goope.jp/sample12)
 
 #### 良い点
 - これもシンプルで良いデザインですね。Wixのものと比べて少し昔のデザインですが、見やすいです。
@@ -32,7 +32,7 @@ https://r.goope.jp/sample12
 - こちらも自分は触ったことがないので、探り探りになります。
 
 ### Wordpress
-https://c-tpl.com/rwp_249.php
+[https://c-tpl.com/rwp_249.php](https://c-tpl.com/rwp_249.php)
 
 #### 良い点
 - デザインは可もなく不可もなく、無難な感じです。
@@ -42,7 +42,7 @@ https://c-tpl.com/rwp_249.php
 - 初心者の方がカスタマイズするのは難しいです。ブログ管理等は簡単にできるんですが、「画像を差し替えたい」とか「ページを増やしたい」とかは難しいですね。
 
 ### TemplateParty
-https://template-party.com/template/tp_beginner5/tp_beginner5_brown01/gallery.html
+[https://template-party.com/template/tp_beginner5/tp_beginner5_brown01/gallery.html](https://template-party.com/template/tp_beginner5/tp_beginner5_brown01/gallery.html)
 
 これは止めておいたほうがいいです。
 ブログ機能をつける場合、有料で¥30,000掛かり、それなら他で制作した方が良いです。
